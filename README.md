@@ -2,7 +2,7 @@
 
 Software engineer in Pune, India. I build **backend systems with Java and Spring Boot**, carry features across the stack with **React**, and build **RAG pipelines that are measured, not just demoed**.
 
-**[Portfolio](https://sahil-portfolio-epi.pages.dev)** · **[LinkedIn](https://www.linkedin.com/in/sahilshinde3801)** · **[LeetCode](https://leetcode.com/shindesahil206/)** · shindesahil206@gmail.com
+**[Portfolio](https://sahilsandipshinde.com/)** · **[LinkedIn](https://www.linkedin.com/in/sahilshinde3801)** · **[LeetCode](https://leetcode.com/shindesahil206/)** · shindesahil206@gmail.com
 
 ---
 
