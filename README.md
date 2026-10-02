@@ -8,7 +8,7 @@ Software engineer in Pune, India. I build **backend systems with Java and Spring
 
 ### Featured work
 
-**[Claims Processing System](https://github.com/Sahil3801/claim-processing-system)** · [case study](https://sahil-portfolio-epi.pages.dev/work/claims-processing)
+**[Claims Processing System](https://github.com/Sahil3801/claim-processing-system)** · [case study](https://sahil-portfolio-epi.pages.dev/work/claims-processing)** · [live demo](https://sahil-claims.vercel.app/login)
 
 Spring Boot claims workflow with controlled lifecycle transitions, JWT role boundaries, idempotent operations and Kafka status processing. p95 claim reads ~18–24% faster with Redis in a 100K-claim benchmark.
 
