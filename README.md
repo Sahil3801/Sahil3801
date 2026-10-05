@@ -20,7 +20,7 @@ Evaluation-first RAG system: Qdrant retrieval, MMR and CrossEncoder reranking na
 
 `Python` `FastAPI` `LangChain` `Qdrant` `RAGAS` `React`
 
-**[Job Portal](https://github.com/Sahil3801/job-portal)** · [case study](https://sahil-portfolio-epi.pages.dev/work/job-portal) · [live demo]([https://sahil-claims.vercel.app/login](https://hirehub-sahil.vercel.app/))
+**[Job Portal](https://github.com/Sahil3801/job-portal)** · [case study](https://sahil-portfolio-epi.pages.dev/work/job-portal) · [live demo](https://hirehub-sahil.vercel.app/)
 
 Full-stack hiring platform with a stateless JWT-secured Spring Boot API, an application lifecycle (applied → interviewing → offered/rejected) and in-app notifications.
 
